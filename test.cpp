@@ -6,6 +6,7 @@ int main()
 	char a;
 	cin >> x >> a;
 	cout << x <<endl<< a;
+	cout << "pppp";
 	system("pause");
 
 }
