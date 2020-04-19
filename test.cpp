@@ -9,5 +9,6 @@ int main()
 	cout << x <<endl<< a;
 	cout << "pppp";
 	system("pause");
+        return 0;
 
 }
